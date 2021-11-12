@@ -1,4 +1,4 @@
-# Image-Classification-deep-NN
+# Image-Classification-deep-NN for MNIST and CelebA
 
 This repository is a simple example of the multiple category classification on an RGB or grayscale image data set.
 
